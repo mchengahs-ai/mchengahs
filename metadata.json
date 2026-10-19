@@ -1,0 +1,6 @@
+{
+  "name": "Hanikiya Stationery, Graphics & Production",
+  "description": "Tsamba lovomerezeka la Hanikiya Stationery, Graphics & Production - Malonda osindikizira, kupanga ma graphics apamwamba, zithunzi za ukwati ndi misonkhano yofunika m'moyo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
